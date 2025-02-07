@@ -7,11 +7,11 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || "",
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+    CUSTOM_REACT: process.env.CUSTOM_REACT 0D9BhSxJ#TfhIwep9vJ1K6Cf2f1PgrvO_Dr2czG8C-EMBII9mD7s|| "false",
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
     CAPTION: process.env.CAPTION || "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
